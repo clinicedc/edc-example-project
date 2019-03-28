@@ -1,2 +1,2 @@
-# edc-test-project
-Test project
+# edc-example-project
+Example project (in progress ...)
